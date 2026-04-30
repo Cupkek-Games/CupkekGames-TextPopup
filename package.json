@@ -1,0 +1,17 @@
+{
+  "name": "com.cupkekgames.textpopup",
+  "displayName": "CupkekGames TextPopup",
+  "version": "0.1.0",
+  "author": {
+    "name": "CupkekGames",
+    "url": "https://www.docs.cupkek.games"
+  },
+  "unity": "6000.0",
+  "documentationUrl": "https://docs.cupkek.games/",
+  "description": "Floating-text popup interfaces (damage / heal / status / number).",
+  "keywords": [
+    "TextPopup",
+    "CupkekGames"
+  ],
+  "dependencies": {}
+}

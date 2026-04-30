@@ -1,0 +1,14 @@
+{
+    "name": "CupkekGames.TextPopup",
+    "rootNamespace": "CupkekGames.TextPopup",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
