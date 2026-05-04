@@ -1,14 +1,14 @@
 {
   "name": "com.cupkekgames.textpopup",
   "displayName": "CupkekGames TextPopup",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "author": {
     "name": "CupkekGames",
     "url": "https://www.docs.cupkek.games"
   },
   "unity": "6000.0",
   "documentationUrl": "https://docs.cupkek.games/",
-  "description": "Floating-text popup interfaces (damage / heal / status / number).",
+  "description": "Floating-text popup interfaces. Kind-driven IPopupManager.Show(kind, ...) primitive with reserved PopupKinds constants and IPopupContext payloads.",
   "keywords": [
     "TextPopup",
     "CupkekGames"
